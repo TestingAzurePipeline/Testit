@@ -13,7 +13,7 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- script:|
+- script: |
    git clone https://github.com/TestingAzurePipeline/Testit.git
    ./Testit/hello.sh
    pwd
