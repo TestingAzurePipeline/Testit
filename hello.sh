@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello again"
+echo "hello goodbye"
